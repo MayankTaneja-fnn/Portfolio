@@ -80,7 +80,7 @@ function App() {
 
         <section id="about">
             <div id="my-image">
-                <img src="../public/Mayank-image-white-bg_new_1.png"/>
+                <img src="../Mayank-image-white-bg_new_1.png"/>
             </div>
 
             <div id="about-para">
@@ -196,7 +196,7 @@ function App() {
                 <div className="timeline-box ">
                     <div className="timeline-container">
                         <div className="timeline-logo">
-                            <img src="../public/ecell.jpeg"/>
+                            <img src="../ecell.jpeg"/>
                         </div>
                         <h3 className="experience-designation  m0 m-blue"> Corporate Executive </h3>
                         <h4 className="experience-company-name"> E-Cell DTU </h4>
@@ -215,7 +215,7 @@ function App() {
                 <div className="timeline-box right ">
                     <div className="timeline-container">
                         <div className="timeline-logo">
-                            <img src="../public/bb.jpeg"/>
+                            <img src="../bb.jpeg"/>
                         </div>
                         <h3 className="experience-designation  m0 m-blue"> Member </h3>
                         <h4 className="experience-company-name"> Business Bulls,DTU </h4>
@@ -230,7 +230,7 @@ function App() {
                 <div className="timeline-box left ">
                     <div className="timeline-container">
                         <div className="timeline-logo">
-                            <img src="../public/gdsc.jpeg"/>
+                            <img src="../gdsc.jpeg"/>
                         </div>
                         <h3 className="experience-designation m0 m-blue"> Web Developer </h3>
                         <h4 className="experience-company-name"> GDSC DTU </h4>
@@ -272,7 +272,7 @@ function App() {
                 <div className="timeline-box left ">
                     <div className="timeline-container">
                         <div className="timeline-logo">
-                            <img src="../public/lasss.png"/>
+                            <img src="../lasss.png"/>
                         </div>
                         <h3 className="experience-designation  m0 m-blue"> Secondary School </h3>
                         <h4 className="experience-company-name "> Little Angels School ,Sonipat </h4>
@@ -284,7 +284,7 @@ function App() {
                 <div className="timeline-box right ">
                     <div className="timeline-container">
                         <div className="timeline-logo">
-                            <img src="../public/sant gyaneshwar.jpeg"/>
+                            <img src="../sant gyaneshwar.jpeg"/>
                         </div>
                         <h3 className="experience-designation  m0 m-blue"> Higher Secondary School </h3>
                         <h4 className="experience-company-name "> Sant Gyaneshwar School,Alipur </h4>
@@ -295,7 +295,7 @@ function App() {
                 <div className="timeline-box left ">
                     <div className="timeline-container">
                         <div className="timeline-logo">
-                            <img src="../public/dtu.jpeg"/>
+                            <img src="../dtu.jpeg"/>
                         </div>
                         <h3 className="experience-designation  m0 m-blue"> Bachelors of Technology </h3>
                         <h5 className="experience-designation  m0 m-blue"> Computer Science </h5>
@@ -329,7 +329,7 @@ function App() {
             <div id="portfolio-container">
 
                 <div className="portfolio-image-container">
-                    <img src="../public/dsa.png"/>
+                    <img src="../dsa.png"/>
                     <div className="portfolio-details">
                         <p>
                             DSA Completion Certificate from Coding Ninjas
@@ -338,7 +338,7 @@ function App() {
 
                 </div>
                 <div className="portfolio-image-container">
-                    <img src="../public/nodejs.png"/>
+                    <img src="../nodejs.png"/>
                     <div className="portfolio-details">
                         <p>
                             NodeJS Completion Certificate from Coding Ninjas
@@ -347,7 +347,7 @@ function App() {
 
                 </div>
                 <div className="portfolio-image-container">
-                    <img src="../public/react.png"/>
+                    <img src="../react.png"/>
                     <div className="portfolio-details">
                         <p>
                             React Completion Certificate from Coding Ninjas

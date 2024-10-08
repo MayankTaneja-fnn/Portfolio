@@ -231,7 +231,8 @@ section:nth-child(2n + 1) {
 
 .timeline-logo {
   position: absolute;
-  width: 80px;
+  width: 5vw;
+  margin-left:-5px;
   overflow: hidden;
 }
 
